@@ -20,3 +20,7 @@ sentry_cost3 <Sentry Cost To Upgrade To Level 3>
 sentry_team <0 = all><1 = T><2 = CT>
 sentry_wait <Sentry Delay Each Round Start>
 ```
+<h2>DRONES</h2>
+<b>SOURCE :</b> https://forums.alliedmods.net/showthread.php?t=306413  
+<br>
+<b>DEPENDENCIES :</b> carblow.amxx plugin https://forums.alliedmods.net/showthread.php?t=306247
